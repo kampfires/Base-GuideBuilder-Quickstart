@@ -1,4 +1,6 @@
-# Lab PKS Installation Phase 1
+# ModernApps.ninja starter guide template. 
+
+Please reference the content below for formatting examples, and replace with your desired content.
 
 **Contents:**
 
