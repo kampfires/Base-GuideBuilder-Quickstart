@@ -1,4 +1,6 @@
-# ModernApps.ninja starter guide template. 
+# THIS GUIDE IS UNDER DEVELOPMENT AND MAY NOT BE FUNCTIONAL - PLEASE DO NOT REMOVE THIS LINE UNTIL YOUR GUIDE IS COMPLETE AND VALIDATED FOR END USER CONSUMPTION 
+
+## ModernApps.ninja starter guide template 
 
 Please reference the content below for formatting examples, and replace with your desired content.
 # Lab Excercise Page Syle Template - 1st level - Main Header
