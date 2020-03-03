@@ -55,7 +55,7 @@ vke cluster show afewell-cluster | grep Address
 ```
 
 <details><summary>Screenshot 1.3.2</summary>
-<img src="Images/2018-10-20-15-45-19.png">
+<img src="media/2018-10-20-15-45-19.png">
 </details>
 <br/>
 
@@ -161,13 +161,13 @@ kubectl describe ingress
 ```
 
 <details><summary>Screenshot 1.3.4</summary>
-<img src="Images/2018-10-20-16-11-14.png">
+<img src="media/2018-10-20-16-11-14.png">
 </details>
 
 1.3.5 Open a browser and go to the url of your VKE SmartCluster to verify that planespotter-frontend is externally accessible with the LoadBalancer service
 
 <details><summary>Screenshot 5.5.5</summary>
-<img src="Images/2018-10-20-16-26-46.png">
+<img src="media/2018-10-20-16-26-46.png">
 </details>
 <br/>
 
@@ -182,7 +182,7 @@ kubectl get ingress
 ```
 
 <details><summary>Screenshot 5.5.6</summary>
-<img src="Images/2018-10-20-16-32-19.png">
+<img src="media/2018-10-20-16-32-19.png">
 </details>
 <br/>
 
